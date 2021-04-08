@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ismoiljon
+- 👀 I’m interested in Pro Gramming ))
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript
+- 📫 How to reach me https://t.me/littleprettydot
